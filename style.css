@@ -1,0 +1,63 @@
+#Title{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+#MainPageHeader{
+    background-color: rgb(193, 193, 255);
+    border-radius: 5px;
+    size: auto;
+}
+.FakeLink{
+    color: rgb(104, 77, 180);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#DeniedHeader{
+    size: auto;
+    text-align: center;
+}
+#DeniedBody{
+    background-color: rgb(175, 175, 175);
+}
+#Denied{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.Materias{
+    display: block;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+.MateriaPhoto{
+    width: 1080px;
+    height: 520px;
+    border-radius: 5px;
+}
+#LoginTitle{
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+#LoginZone{
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.Button{
+    padding: 15px 35px;
+    border: 2px solid rgb(1, 0, 37);
+    background-color: rgb(1, 0, 63);
+    border-radius: 5px;
+    color: white;
+    font-size: 1.2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    transition: background-color, border-color 0.25s;
+}
+.Button:hover{
+    background-color: rgb(1, 0, 34);
+    border-color: black;
+}

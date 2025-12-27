@@ -1,0 +1,32 @@
+.Title{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+body{
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.PG{
+    font-size: 1.5em;
+}
+#OtherNews{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.NewsAd{
+    width: 350px;
+    height: 250;
+    border: 3px solid black;
+    font-size: 20px;
+}
+.MateriaPhoto{
+    width: 1080px;
+    height: 520px;
+    border-radius: 5px;
+}
+.AdImage{
+    width: 340px;
+    height: 180px;
+    margin: 5px;
+}
