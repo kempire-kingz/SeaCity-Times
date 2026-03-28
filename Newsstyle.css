@@ -21,12 +21,19 @@ body{
     font-size: 20px;
 }
 .MateriaPhoto{
-    width: 1080px;
-    height: 520px;
+    width: calc(100vw - 320px);
+    height: calc(100vh - 160px); 
     border-radius: 5px;
 }
 .AdImage{
-    width: 340px;
-    height: 180px;
+    width: calc(100vw - 1080px);
+    height: calc(100vh - 480px); 
     margin: 5px;
+}
+.NewsAdConteiner{
+    display: flex;
+    gap: 10px;
+}
+#Return{
+    font-size: 25px;
 }
